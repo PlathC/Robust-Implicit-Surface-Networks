@@ -5,7 +5,7 @@ endif()
 include(FetchContent)
 FetchContent_Declare(
     simplicial_arrangement
-    GIT_REPOSITORY https://github.com/qnzhou/simplicial_arrangement.git
+    GIT_REPOSITORY https://github.com/PlathC/simplicial_arrangement.git
     GIT_TAG main
     )
 
